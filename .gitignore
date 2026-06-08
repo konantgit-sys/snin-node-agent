@@ -1,0 +1,6 @@
+# SNIN Node Agent
+__pycache__/
+*.pyc
+key.secret
+identity.json
+.env
